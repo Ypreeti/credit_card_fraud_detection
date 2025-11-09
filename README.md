@@ -14,7 +14,7 @@ Models such as Logistic Regression, Random Forest, and XGBoost were trained and 
 XGBoost performed best with the strongest balance between detecting frauds and avoiding false alarms.
 
 # Interpretation of Model Results 
-# Logistic Regression
+Logistic Regression
 
 Very simple and fast to train.
 
